@@ -1,16 +1,13 @@
-### Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=2000&pause=2000&color=41B883&vCenter=true&width=310&height=35&lines=Hey%2C+it's+imarenf)](https://git.io/typing-svg)
 
-<!--
-**imarenf/imarenf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarenf&theme=tokyonight&layout=compact" />
 
-Here are some ideas to get you started:
+<img align="left" width="47% src="https://github-readme-stats.vercel.app/api?username=imarenf&theme=tokyonight" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarenf&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Imarenf's GitHub stats](https://github-readme-stats.vercel.app/api?username=imarenf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My skills:
+[![My skills](https://skillicons.dev/icons?i=py,go,java,c,bash,nodejs,postgres,nginx,docker,linux,kubernetes,ansible,jenkins)](https://skillicons.dev)
